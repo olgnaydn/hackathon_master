@@ -22,7 +22,7 @@ Ardindan hemen basliyoruz!
 
 6 - Product ekibi, emlakcilara ve son kullanicilarin ev fiyatlarini daha iyi analiz edebilmek amaciyla konut tipindeki gayrimenkuller icin fiyat tahmini yapan bir modul olusturmak istiyor (Milliyet Veri Seti) (Spark)
 
-7 - Yeni bir reklam kampanyasi icin en iyi goruntulenme saglayan kaynagin tespit edilmesi isteniyor.(Milliyet Veri Seti) ()
+7 - Yeni bir reklam kampanyasi icin en iyi goruntulenme saglayan kaynagin tespit edilmesi isteniyor.(Milliyet Veri Seti) (MapReduce)
 
 8 - Firma hazirladigi yeni reklam kampanyasi icin en cok ilan goruntulenen 5 ilin tespit tespit edilmesini istiyor.(Milliyet Veri Seti) (MapReduce)
 
