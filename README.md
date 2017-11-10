@@ -42,3 +42,23 @@ https://datademi.blob.core.windows.net/milliyet/image_data.csv
 Insider
 
 https://datademi.blob.core.windows.net/insider/hackathon.json
+
+# Kurallar
+
+1. Yarışma saat 19:00 da başlayacaktır.
+2. Yarışmada iki adet veri seti kullanılacaktır.
+3. Platform olarak Azure ortamı kullanılacaktır.
+4. Değerlendirme juri tarafından yapılacaktır.
+5. Katılımıcıların veri seti üzerinden sorulan sorulara istenilen teknolojileri kullanarak cevap vermesi beklenecektir.
+6. Cevaplar programalama dilinden bağımsız olarak değerlendirilecektir.
+7. Yarışma süresince yarışmacının hackathon alanında ayrılamaması gereklidir.
+8. Jürinin cevapları değerlendirmesi için yarışmacının süre bitiminde hackathon alanında bulunması gereklidir.
+9. Eşitlik halinde process süresi göz önünde bulundurulacaktır.
+10. Jüri gerekli olduğu anda veri bilimi ile ilgili sorularda yarışmacının izlediği yolu detaylı bir şekilde açıklamasanı talep edebilir.
+11. Organizasyon ekibi ve sponsor firmalarda çalışanlardan ve birinci derece yakınlardın katılımcı kabul edilmeyecektir.
+12. Hile tespit edilmesi durumunuda yarışmacı diskalifiye edilecektir ve eğer ödül aldıysa sıralama değişecektir.
+13. Yarışma sırasında başkalarını rahatsız edecek davranışlar içerisinde bulunan yarışmacılar uyarılacaktır ve gerekli halde diskalifiye edeilecektir.
+14. Yarışma süresince yarışmacaının kahve, yiyecek ve ihiyaçları yarışma alanında karşılanacaktır.
+15. Katılımcıların kendi dizüstü bilgisayarları ile katılmaları gereklidir. Lakin bütün sorular Azure ortamında çalıştırılacaktır.
+16. Cevaplar için kullanılması istenen teknolojiler : Hadoop, Spark, Hive, Kafka.
+17. Cevaplar için kullanılabilecek programlama dilleri : Python, Scala, Java, R, Julia, SQL
