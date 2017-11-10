@@ -18,13 +18,13 @@ Ardindan hemen basliyoruz!
 
 4 - Ilan kalite ekibi son 1 aydaki kiralık tipindeki dairelere ait, fiyat alani 0 ve 0'dan buyuk olan ilanlari incelemek istiyor (Milliyet Veri Seti) ()
 
-5 - Product ekibi, emlak analiz toolu olusturmak istiyor. Bu sebeple data science ekibinden aylık satılık ve kiralık, konut tipi alt kırılımlarına göre il bazinda metrekare fiyatlarini talep ediyor (Milliyet Veri Seti) (Spark)
+5 - Product ekibi, emlak analiz toolu olusturmak istiyor. Bu sebeple data science ekibinden aylık satılık ve kiralık, konut tipi alt kırılımlarına göre ilce bazinda metrekare fiyatlarini talep ediyor (Milliyet Veri Seti) (Spark)
 
 6 - Product ekibi, emlakcilara ve son kullanicilarin ev fiyatlarini daha iyi analiz edebilmek amaciyla konut tipindeki gayrimenkuller icin fiyat tahmini yapan bir modul olusturmak istiyor (Milliyet Veri Seti) (Spark)
 
 7 - Yeni bir reklam kampanyasi icin en iyi goruntulenme saglayan kaynagin tespit edilmesi isteniyor.(Milliyet Veri Seti) (MapReduce)
 
-8 - Firma hazirladigi yeni reklam kampanyasi icin en cok ilan goruntulenen 5 ilin tespit tespit edilmesini istiyor.(Milliyet Veri Seti) (MapReduce)
+8 - Firma hazirladigi yeni reklam kampanyasi icin en cok ilan goruntulenen 5 ilcenin tespit tespit edilmesini istiyor.(Milliyet Veri Seti) (MapReduce)
 
 9 - Yoneticiler bazi ilcelerde goruntulenmenin cok dusuk oldugunu kesfetmis. Bu sebeple en dusuk goruntulenme sayisina sahip 10 ilcenin bilgilerini istediler (Milliyet Veri Seti) (Spark Sql)
 
