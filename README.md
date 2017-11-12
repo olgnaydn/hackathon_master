@@ -34,14 +34,7 @@ Ardindan hemen basliyoruz!
 
 
 VeriSetleri:
-Milliyet
 
-https://datademi.blob.core.windows.net/milliyet/AdvertPageview.csv
-https://datademi.blob.core.windows.net/milliyet/image_data.csv
-
-Insider
-
-https://datademi.blob.core.windows.net/insider/hackathon.json
 
 # Kurallar
 
